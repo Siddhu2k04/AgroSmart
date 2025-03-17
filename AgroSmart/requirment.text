@@ -1,0 +1,12 @@
+Flask
+flask-mysqldb
+scikit-learn
+pandas
+numpy
+joblib
+mysqlclient
+matplotlib
+plotly
+MySQLdb
+seaborn
+imblearn
