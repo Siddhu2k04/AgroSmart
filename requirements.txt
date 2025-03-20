@@ -11,3 +11,4 @@ MySQLdb==2.2.7
 seaborn==0.13.2
 imblearn==0.0
 python==3.9.12
+wheel==0.45.1
